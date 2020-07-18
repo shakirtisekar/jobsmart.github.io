@@ -1,0 +1,1 @@
+SELECT * FROM jobforum.company;

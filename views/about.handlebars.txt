@@ -1,0 +1,11 @@
+<div class="main-body">
+    <h2 class="page-title">About Us</h2>
+    <p>Have any doubts?.....
+
+Contact us on this Toll Free Number:
+854903097
+or Email us:
+shakirtisekar52@gmail.com
+
+</p>
+</div>
